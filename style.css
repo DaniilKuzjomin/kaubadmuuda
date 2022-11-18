@@ -1,0 +1,36 @@
+div#lisamine{
+    padding: 30px;
+    background-color: darkgray;
+    margin-right: 80%;
+    border: 2pt solid black;
+
+
+}
+
+div#grlisa{
+
+    margin-top: 1%;
+    padding: 30px;
+    background-color: darkgray;
+    margin-right: 80%;
+    border: 2pt solid black;
+
+}
+
+div#tbl{
+
+    margin-top: 1%;
+    padding: 30px;
+    background-color: darkgray;
+    margin-right: 80%;
+    border: 2pt solid black;
+
+}
+
+td {
+
+    border-right: 1pt solid black;
+    padding: 10px;
+
+
+}
